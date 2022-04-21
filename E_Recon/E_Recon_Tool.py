@@ -82,7 +82,7 @@ while active:
            
            pretty = response.json()           
            
-           print(yellow("\n\tNumber of Breach Records   |    Last Breach Discovered"))
+           print(yellow("\n\tNumber of Breach Records   |    Latest Breach Discovered"))
            
           
            print(blue("\n======================================================================================")) 
