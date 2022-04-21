@@ -23,9 +23,9 @@
 
 **Step 5)** Log-in to leak-lookup.com and optain your free API key. (Only 10 Searches allowed per day! Read their documentation!)
 
-**Step 6)** Open E_Recon_Tool.py in a text editor and insert your API key in _**line 24**_ Between the quotation marks _**""**_ and save the file (See image below).
+**Step 6)** Open E_Recon_Tool.py in a text editor and insert your API key in _**line 25**_ Between the quotation marks _**""**_ and save the file (See image below).
 
-![Screenshot (25)](https://user-images.githubusercontent.com/104036615/164343846-ea1a1f4c-25ce-4b2f-9cd7-cd2b4079f97c.jpg)
+![Screenshot (27)](https://user-images.githubusercontent.com/104036615/164566136-0ecafea2-a5cc-4503-ae0a-188237ce3211.jpg)
 
 **Step 7)** Run the tool with: 
 
