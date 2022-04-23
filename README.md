@@ -6,7 +6,7 @@
 
 ![banner](https://user-images.githubusercontent.com/104036615/164873023-3e8d85e0-7c25-427f-9f6d-aa4c7db92eda.png)
 
-**Step 1)** Clone the tool to your machine (Kali, Arch, or any Linux Distro). For windows check: "https://github.com/Mstrmind-Hack/Email-Recon-For-Windows10/"
+**Step 1)** Clone the tool to your machine (Kali, Arch, or any Linux Distro). For windows check: "https://github.com/Mstrmind-Hack/Breached-For-Windows10/"
 
         >>git clone https://github.com/Mstrmind-Hack/Breached_Tool_For_Linux.git
        
