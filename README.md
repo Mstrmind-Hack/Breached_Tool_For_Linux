@@ -36,5 +36,5 @@
 
 ![banner1](https://user-images.githubusercontent.com/104036615/164873074-65cd8b82-827a-47ce-907e-cf6495be83d7.png)
 
-![banner3](https://user-images.githubusercontent.com/104036615/164873192-2e16ebff-c4d7-4e4f-92f8-7ab8a263fc3e.png)
+![banner3](https://user-images.githubusercontent.com/104036615/164878046-833143e6-ef56-4b8d-b760-c5a37e18c983.png)
 
