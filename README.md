@@ -8,11 +8,11 @@
 
 **Step 1)** Clone the tool to your machine (Kali, Arch, or any Linux Distro). For windows check: "https://github.com/Mstrmind-Hack/Email-Recon-For-Windows10/"
 
-        >>git clone https://github.com/Mstrmind-Hack/Email-Recon.git
+        >>git clone https://github.com/Mstrmind-Hack/Breached_Tool_For_Linux.git
        
-**Step 2)** Change directories to the Email-Recon Directory
+**Step 2)** Change directories to the Breached Directory
 
-        >>cd Email_Recon
+        >>cd Breached
 
 **Step 3)** Install the tool requirements.
 
@@ -22,15 +22,15 @@
 
 **Step 5)** Log-in to leak-lookup.com and optain your free API key. (Only 10 Searches allowed per day! Read their documentation!)
 
-**Step 6)** Open E_Recon_Tool.py in a text editor and insert your API key in _**line 27**_ Between the quotation marks _**""**_ and save the file (See image below).
+**Step 6)** Open Breached_Tool.py in a text editor and insert your API key in _**line 27**_ Between the quotation marks _**""**_ and save the file (See image below).
 
 ![KEY](https://user-images.githubusercontent.com/104036615/164873305-eccb8663-bfab-49b4-ae9d-552def09e8a7.png)
 
 **Step 7)** Run the tool with: 
 
-         >>python3 E_Recon_Tool.py
+         >>python3 Breached_Tool.py
          OR
-         >>python E_Recon_Tool.py
+         >>python Breached_Tool.py
 
 **Step 8)** Follow the prompts! It's that easy!
 
