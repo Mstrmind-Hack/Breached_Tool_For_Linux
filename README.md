@@ -18,7 +18,7 @@
 
         >>pip install -r requirements.txt
        
-**Step 4)** Visit: https://leak-lookup.com/account/register and create a free **username and password** to access your **API KEY**.
+**Step 4)** Visit: https://leak-lookup.com/account/register and create a free **username and password** to access your **FREE API KEY**.
 
 **Step 5)** Log-in to leak-lookup.com and optain your free API key. (Only 10 Searches allowed per day! Read their documentation!)
 
