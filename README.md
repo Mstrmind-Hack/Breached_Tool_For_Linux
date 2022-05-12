@@ -24,9 +24,9 @@
 
 **Step 5)** Log-in to leak-lookup.com and optain your free API key. (Only 10 Searches allowed per day! Read their documentation!)
 
-**Step 6)** Open Breached_Tool.py in a text editor and insert your API key in _**line 27**_ Between the quotation marks _**""**_ and save the file (See image below).
+**Step 6)** Open API_KEY.py in a text editor and insert your API key in _**line 4**_ Between the quotation marks _**""**_ and save the file (See image below).
 
-![KEY](https://user-images.githubusercontent.com/104036615/164873305-eccb8663-bfab-49b4-ae9d-552def09e8a7.png)
+![api](https://user-images.githubusercontent.com/104036615/167968288-63798af3-7796-47a1-a77c-4e22a78ea899.png)
 
 **Step 7)** Run the tool with: 
 
