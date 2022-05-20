@@ -1,12 +1,11 @@
 # Breached? Tool For Linux
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/104036615/169430789-27f6638d-7106-43ae-b065-b266c5396523.gif)
+
+**UPDATED VERSION 2!**
 
 **This tool will help you Discover if your E-mail Address or Username was involved in a data breach.**
 
 **The tool will also show you the number of breaches (if any), the most recent breach (in terms of days/weeks/years), and some of the websites on which your E-mail/Username was breached (Keep in mind, other individuals might have the same username as you on sites you're not associated with).**
-
-![banner](https://user-images.githubusercontent.com/104036615/164873023-3e8d85e0-7c25-427f-9f6d-aa4c7db92eda.png)
-
-**VIDEO DEMO OF THE TOOL** https://youtu.be/m1qaRTNf-7Q
 
 **Step 1)** Clone the tool to your machine (Kali, Arch, or any Linux Distro). For windows check: "https://github.com/Mstrmind-Hack/Breached-For-Windows10/"
 
@@ -36,7 +35,9 @@
 
 **Step 8)** Follow the prompts! It's that easy!
 
-![banner1](https://user-images.githubusercontent.com/104036615/164873074-65cd8b82-827a-47ce-907e-cf6495be83d7.png)
+| API | Key Needed?|
+|-----|------|
+|1) portal.spycloud.com|No|
+|2) leak-lookup.com| Yes|
 
-![banner3](https://user-images.githubusercontent.com/104036615/164878046-833143e6-ef56-4b8d-b760-c5a37e18c983.png)
 
